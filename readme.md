@@ -2,9 +2,9 @@
 
 ## Student Details
 
-- Student ID: `U1610231`
-- Student Name: `Shokhsanam Shirinkulova`
-- Section Number: `002`
+- Student ID: U1610257
+- Student Name: Diyorkhon Mukhamedkhanov
+- Section Number: 002
 
 ## Tasks
 Finish following tasks in this project:
